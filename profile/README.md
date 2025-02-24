@@ -1,5 +1,4 @@
-# .github
-# Welcome to [Organization Name] 👋
+# Welcome to Cibred 👋
 
 ![Organization Banner](https://via.placeholder.com/1200x300)
 
